@@ -1,9 +1,11 @@
 # capstone-project
 
+Das Capstone-Project ist ein Terminalspiel, das mit Hilfe von Lanterna ausgegeben wird. Ziel ist es den Ausgang des Labyrinths mit einem vorher eingesammelten Schlüssel zu erreichen.
 Die Klasse Capstone enthält die main-Methode, um das Spiel zu starten.
 
 Den Dialog zu Beginn des Spiels, sowie während des Spiels im Menü, kann man mit Enter bestätigen / einen Menüeintrag auswählen.
 Navigieren im Spiel und im Menü ist mit den Pfeiltasten möglich.
+Das Menü kann jederzeit mit Escape geöffnet werden.
 
 Die Klasse Generate ist im Originalzustand wie in der Vorgabe, und kann ausgeführt werden um ein neues Level in der Datei level.properties speichern.
 Dieser Dateiname ist im Spiel teilweise als default-Dateiname gegeben.
